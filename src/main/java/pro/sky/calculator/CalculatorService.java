@@ -12,7 +12,7 @@ public class CalculatorService {
   }
 
 
-  public String plus( double num1,double num2) {
+  public String plus(double num1, double num2) {
 
     double rezult = num1 + num2;
     return num1 + " + " + num2 + " = " + rezult;
